@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Pokedex](https://github.com/JhonCap2/Pokedex)
+- 🔭 I’m currently working on [AplicacionIglesia](https://github.com/JhonCap2/AplicacionIglesia)
 
 - 👯 I’m looking to collaborate on [WepAppPeliculas](https://github.com/JhonCap2/WebAppMovies)
+
+- 🤝 I’m looking for help with [Pokedex](https://github.com/wvasquez4/Pokedex.js/tree/master/src)
 
 - 📫 How to reach me **jhoncap22@hotmail.com**
 
