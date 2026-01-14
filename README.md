@@ -8,7 +8,7 @@
   </ul>
 </div>
 
-<h3 align="center">A passionate FullStack developer from Dominican Republic 🇩🇴 And Canada CA</h3>
+<h3 align="center">A passionate FullStack developer from Dominican Republic 🇩🇴 & Canada 🇨🇦</h3>
 
 <div align="center">
 
@@ -18,6 +18,7 @@
 - 📫 Reach me at: **adamesjcp@gmail.com**
 
 </div>
+
 <div align="center">
   <h2 style="display: inline-block">My GitHub Stats 📊</h2>
   <br>
@@ -25,6 +26,17 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhoncap2&layout=compact&theme=tokyonight" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncap2&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <h2 style="display: inline-block">📂 Recent Work & Repos</h2>
+  <br>
+  <a href="https://github.com/jhoncap2/AplicacionIglesia">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhoncap2&repo=AplicacionIglesia&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/jhoncap2/WebAppMovies">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhoncap2&repo=WebAppMovies&theme=tokyonight" />
+  </a>
 </div>
 
 <div align="center">
@@ -69,3 +81,5 @@
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=jhoncap2&icon=3&color=6" alt="visit count" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
