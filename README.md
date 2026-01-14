@@ -8,11 +8,7 @@
   </ul>
 </div>
 
-<h3 align="center">A passionate FullStack developer from Dominican Republic 🇩🇴</h3>
-
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
+<h3 align="center">A passionate FullStack developer from Dominican Republic 🇩🇴 And Canada CA</h3>
 
 <div align="center">
 
