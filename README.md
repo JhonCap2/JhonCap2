@@ -8,18 +8,33 @@
 
 ---
 
-## 🚀 Project Progress by Programming Languages  
-*(Actualizado automáticamente por GitHub)*
+# 🚀 Project Progress by Programming Languages  
+### *(Actualizado automáticamente según GitHub)*
 
-### 📌 AplicacionIglesia
+## 📌 AplicacionIglesia
 ![AplicacionIglesia](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=AplicacionIglesia&theme=tokyonight)
 
-### 🎬 WebAppMovies
+## 🎬 WebAppMovies
 ![WebAppMovies](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=WebAppMovies&theme=tokyonight)
+
+## 🎥 WebAppPeliculas
+![WebAppPeliculas](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=WebAppPeliculas&theme=tokyonight)
+
+## 🧑‍🎓 CRUD-Estudiantes
+![CRUD-Estudiantes](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=CRUD-Estudiantes&theme=tokyonight)
+
+## 🧩 CRUD-MVC
+![CRUD-MVC](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=CRUD-MVC&theme=tokyonight)
+
+## 🏁 ProyectoFinal
+![ProyectoFinal](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=ProyectoFinal&theme=tokyonight)
+
+## 🎞️ WebApiPeliculas
+![WebApiPeliculas](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=WebApiPeliculas&theme=tokyonight)
 
 ---
 
-## 🌐 Connect with me
+# 🌐 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/jhon-christopher-adames-pérez-b6b078248/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -28,7 +43,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+# 🛠️ Languages and Tools
 <p align="left">
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>
@@ -47,7 +62,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhoncap2&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhoncap2&show_icons=true&locale=en&theme=tokyonight" /></p>
