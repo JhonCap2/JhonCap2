@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm JhonCap</h1>
 <h3 align="center">A passionate FullStack developer from Dominican Republic</h3>
 
-- 🔭 I’m currently working on **[AplicacionIglesia](https://github.com/JhonCap2/AplicacionIglesia)**
-- 👯 I’m looking to collaborate on **[WebAppMovies](https://github.com/JhonCap2/WebAppMovies)**
+- 🔭 I’m currently working on **AplicacionIglesia**
+- 👯 I’m looking to collaborate on **WebAppMovies**
 - 🤝 I’m looking for help with **Pokedex** (proyecto externo)
 - 📫 How to reach me **jhoncap22@hotmail.com**
 
@@ -17,20 +17,47 @@
 ## 🎬 WebAppMovies
 ![WebAppMovies](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=WebAppMovies&theme=tokyonight)
 
-## 🎥 WebAppPeliculas
-![WebAppPeliculas](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=WebAppPeliculas&theme=tokyonight)
+## 🎥 WebPeliculas
+![WebPeliculas](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=WebPeliculas&theme=tokyonight)
 
-## 🧑‍🎓 CRUD-Estudiantes
-![CRUD-Estudiantes](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=CRUD-Estudiantes&theme=tokyonight)
+## 🎞️ PeliculasPrueba
+![PeliculasPrueba](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=PeliculasPrueba&theme=tokyonight)
 
-## 🧩 CRUD-MVC
-![CRUD-MVC](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=CRUD-MVC&theme=tokyonight)
+## 🧑‍🎓 EscuelaPrueba
+![EscuelaPrueba](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=EscuelaPrueba&theme=tokyonight)
 
-## 🏁 ProyectoFinal
-![ProyectoFinal](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=ProyectoFinal&theme=tokyonight)
+## 🧩 Estudiantes
+![Estudiantes](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=Estudiantes&theme=tokyonight)
 
-## 🎞️ WebApiPeliculas
-![WebApiPeliculas](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=WebApiPeliculas&theme=tokyonight)
+## 🔐 Autentificarse
+![Autentificarse](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=Autentificarse&theme=tokyonight)
+
+## 🧾 EntidadesJ
+![EntidadesJ](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=EntidadesJ&theme=tokyonight)
+
+## 💼 ProgramaDeNomina
+![ProgramaDeNomina](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=ProgramaDeNomina&theme=tokyonight)
+
+## 🧪 PruebadePractica
+![PruebadePractica](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=PruebadePractica&theme=tokyonight)
+
+## 🌐 CouncilChurchAPI
+![CouncilChurchAPI](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=CouncilChurchAPI&theme=tokyonight)
+
+## 🎨 MyPortfolio
+![MyPortfolio](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=MyPortfolio&theme=tokyonight)
+
+## 🎨 Porfolio
+![Porfolio](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=Porfolio&theme=tokyonight)
+
+## 🧪 pruebacarga
+![pruebacarga](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=pruebacarga&theme=tokyonight)
+
+## 🐍 pruebasJhonPython
+![pruebasJhonPython](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=pruebasJhonPython&theme=tokyonight)
+
+## 🧩 Final-Project
+![Final-Project](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=Final-Project&theme=tokyonight)
 
 ---
 
