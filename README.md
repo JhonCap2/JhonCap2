@@ -14,31 +14,28 @@
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
+<div align="center">
+
+- 🔭 I’m currently working on **AplicacionIglesia**
+- 👯 I’m looking to collaborate on **WebAppMovies**
+- 🤝 I’m looking for help with **Pokedex**
+- 📫 Reach me at: **adamesjcp@gmail.com**
+
+</div>
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h2 style="display: inline-block">Code is my language</h2>
+      <h2 style="display: inline-block">My GitHub Stats 📊</h2>
     </summary>
   </ul>
 </div>
 
-- 🔭 I’m currently working on **AplicacionIglesia**
-- 👯 I’m looking to collaborate on **WebAppMovies**
-- 🤝 I’m looking for help with **Pokedex** (proyecto externo)
-- 📫 How to reach me: **jhoncap22@hotmail.com**
 <p align="center">
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhoncap2&theme=tokyonight&show_icons=true&count_private=true" />
-        <br><br>
-        <img title="🔥 Streak Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncap2&theme=tokyonight&hide_border=false" />
-      </td>
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncap2&theme=tokyonight&hide_border=false&layout=compact" />
-      </td>
-    </tr>
-  </table>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jhoncap2&theme=tokyonight&show_icons=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncap2&theme=tokyonight&hide_border=false&layout=compact" />
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncap2&theme=tokyonight&hide_border=false" />
 </p>
 
 <div id="user-content-toc">
@@ -63,6 +60,8 @@
   </ul>
 </div>
 
+<div align="center">
+
 | Project | Tech Stack |
 | :--- | :--- |
 | **⛪ AplicacionIglesia** | C#, .NET, SQL Server, HTML/CSS |
@@ -70,7 +69,8 @@
 | **🌐 CouncilChurchAPI** | .NET, SQL Server, REST API |
 | **💼 ProgramaDeNomina** | C#, .NET, SQL Server |
 | **🎨 MyPortfolio** | React, JavaScript, CSS |
-| **🧩 Final-Project** | C#, .NET, SQL Server |
+
+</div>
 
 ---
 
@@ -83,10 +83,10 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jhon-christopher-adames-pérez-b6b078248/" target="blank">
+  <a href="https://www.linkedin.com/in/jhon-christopher-adames-p%C3%A9rez-b6b078248/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
-  <a href="mailto:jhoncap22@hotmail.com">
+  <a href="mailto:adamesjcp@gmail.com">
     <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="50" alt="gmail" />
   </a>
 </p>
@@ -96,5 +96,3 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">Last Edited on: 14/01/2026</p>
