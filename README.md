@@ -12,25 +12,26 @@
 </p>
 
 - 🔭 I’m currently working on **[AplicacionIglesia](https://github.com/JhonCap2/AplicacionIglesia)**
-- 👯 I’m looking to collaborate on **[WepAppPeliculas](https://github.com/JhonCap2/WebAppMovies)**
-- 🤝 I’m looking for help with **[Pokedex](https://github.com/wvasquez4/Pokedex.js/tree/master/src)**
+- 👯 I’m looking to collaborate on **[WebAppMovies](https://github.com/JhonCap2/WebAppMovies)**
+- 🤝 I’m looking for help with **Pokedex** (proyecto externo)
 - 📫 How to reach me **jhoncap22@hotmail.com**
 
 ---
 
 ## 🚀 Project Progress by Programming Languages
 
-### 🧠 Skills Progress
-(Valores de ejemplo, puedo ajustarlos a tu nivel real)
+### 📌 AplicacionIglesia  
+**C#**  
+████████████████ 100%
 
-| Lenguaje / Skill | Progreso |
-|------------------|----------|
-| **JavaScript**   | ![JS](https://progress-bar.dev/85/?title=Avance) |
-| **C#**           | ![C#](https://progress-bar.dev/80/?title=Avance) |
-| **React**        | ![React](https://progress-bar.dev/75/?title=Avance) |
-| **Node.js**      | ![Node](https://progress-bar.dev/70/?title=Avance) |
-| **SQL / Databases** | ![SQL](https://progress-bar.dev/65/?title=Avance) |
-| **HTML/CSS**     | ![HTML](https://progress-bar.dev/90/?title=Avance) |
+---
+
+### 🎬 WebAppMovies  
+**HTML**  
+██████████░░░░░ 65%
+
+**C#**  
+███████░░░░░░░ 34%
 
 ---
 
