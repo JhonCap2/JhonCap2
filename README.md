@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm JhonCap</h1>
 <h3 align="center">A passionate FullStack developer from Dominican Republic</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jhoncap2&label=Profile%20views&color=0e75b6&style=flat" alt="jhoncap2" />
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on **[AplicacionIglesia](https://github.com/JhonCap2/AplicacionIglesia)**
 - 👯 I’m looking to collaborate on **[WebAppMovies](https://github.com/JhonCap2/WebAppMovies)**
 - 🤝 I’m looking for help with **Pokedex** (proyecto externo)
@@ -18,20 +8,14 @@
 
 ---
 
-## 🚀 Project Progress by Programming Languages
+## 🚀 Project Progress by Programming Languages  
+*(Actualizado automáticamente por GitHub)*
 
-### 📌 AplicacionIglesia  
-**C#**  
-████████████████ 100%
+### 📌 AplicacionIglesia
+![AplicacionIglesia](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=AplicacionIglesia&theme=tokyonight)
 
----
-
-### 🎬 WebAppMovies  
-**HTML**  
-██████████░░░░░ 65%
-
-**C#**  
-███████░░░░░░░ 34%
+### 🎬 WebAppMovies
+![WebAppMovies](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=WebAppMovies&theme=tokyonight)
 
 ---
 
@@ -64,8 +48,8 @@
 ---
 
 ## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhoncap2&show_icons=true&locale=en&layout=compact" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhoncap2&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhoncap2&show_icons=true&locale=en" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhoncap2&show_icons=true&locale=en&theme=tokyonight" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncap2" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncap2&theme=tokyonight" /></p>
