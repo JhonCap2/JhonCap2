@@ -29,13 +29,14 @@
 </div>
 
 <div align="center">
-  <h2 style="display: inline-block">📂 Latest Repositories</h2>
-  <p>
-    <a href="https://github.com/jhoncap2/AplicacionIglesia"><b>🔗 AplicacionIglesia</b></a> • 
-    <a href="https://github.com/jhoncap2/WebAppMovies"><b>🔗 WebAppMovies</b></a> • 
-    <a href="https://github.com/jhoncap2/CouncilChurchAPI"><b>🔗 CouncilChurchAPI</b></a> • 
-    <a href="https://github.com/jhoncap2/MyPortfolio"><b>🔗 MyPortfolio</b></a>
-  </p>
+  <h2 style="display: inline-block">🌐 Live Demos</h2>
+  <p>¡Echa un vistazo a mis proyectos en vivo!</p>
+  <a href="https://jhonporfolioweb.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Portfolio-2ea44f?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://final-project-3sj4.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Final_Project-007ACC?style=for-the-badge&logo=dotnet&logoColor=white" alt="Final Project" />
+  </a>
 </div>
 
 <div align="center">
@@ -58,7 +59,7 @@
 | **🎬 WebAppMovies** | JavaScript, React, Node.js | ✅ Completed |
 | **🌐 CouncilChurchAPI** | .NET, SQL Server, REST API | ✅ Completed |
 | **💼 ProgramaDeNomina** | C#, .NET, SQL Server | ✅ Completed |
-| **🎨 MyPortfolio** | React, JavaScript, CSS | 🚧 Improving |
+| **🎨 MyPortfolio** | React, JavaScript, CSS | 🌍 [Live](https://jhonporfolioweb.onrender.com/) |
 
 </div>
 
