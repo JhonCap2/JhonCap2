@@ -29,14 +29,13 @@
 </div>
 
 <div align="center">
-  <h2 style="display: inline-block">📂 Recent Work & Repos</h2>
-  <br>
-  <a href="https://github.com/jhoncap2/AplicacionIglesia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhoncap2&repo=AplicacionIglesia&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/jhoncap2/WebAppMovies">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhoncap2&repo=WebAppMovies&theme=tokyonight" />
-  </a>
+  <h2 style="display: inline-block">📂 Latest Repositories</h2>
+  <p>
+    <a href="https://github.com/jhoncap2/AplicacionIglesia"><b>🔗 AplicacionIglesia</b></a> • 
+    <a href="https://github.com/jhoncap2/WebAppMovies"><b>🔗 WebAppMovies</b></a> • 
+    <a href="https://github.com/jhoncap2/CouncilChurchAPI"><b>🔗 CouncilChurchAPI</b></a> • 
+    <a href="https://github.com/jhoncap2/MyPortfolio"><b>🔗 MyPortfolio</b></a>
+  </p>
 </div>
 
 <div align="center">
@@ -48,18 +47,18 @@
 </div>
 
 <div align="center">
-  <h2 style="display: inline-block">🚀 Featured Projects</h2>
+  <h2 style="display: inline-block">🚀 Project Overview</h2>
 </div>
 
 <div align="center">
 
-| Project | Tech Stack |
-| :--- | :--- |
-| **⛪ AplicacionIglesia** | C#, .NET, SQL Server, HTML/CSS |
-| **🎬 WebAppMovies** | JavaScript, React, Node.js |
-| **🌐 CouncilChurchAPI** | .NET, SQL Server, REST API |
-| **💼 ProgramaDeNomina** | C#, .NET, SQL Server |
-| **🎨 MyPortfolio** | React, JavaScript, CSS |
+| Project | Tech Stack | Status |
+| :--- | :--- | :--- |
+| **⛪ AplicacionIglesia** | C#, .NET, SQL Server | 🚧 In Progress |
+| **🎬 WebAppMovies** | JavaScript, React, Node.js | ✅ Completed |
+| **🌐 CouncilChurchAPI** | .NET, SQL Server, REST API | ✅ Completed |
+| **💼 ProgramaDeNomina** | C#, .NET, SQL Server | ✅ Completed |
+| **🎨 MyPortfolio** | React, JavaScript, CSS | 🚧 Improving |
 
 </div>
 
