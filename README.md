@@ -69,5 +69,3 @@
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=jhoncap2&icon=3&color=6" alt="visit count" />
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
