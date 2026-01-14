@@ -8,56 +8,72 @@
 
 ---
 
-# 🚀 Project Progress by Programming Languages  
-### *(Actualizado automáticamente según GitHub)*
+# 🚀 Project Technologies Used  
+### *(Lenguajes principales por proyecto)*
 
-## 📌 AplicacionIglesia
-![AplicacionIglesia](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=AplicacionIglesia&theme=tokyonight)
+## 📌 AplicacionIglesia  
+![AplicacionIglesia](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=AplicacionIglesia&theme=tokyonight)  
+**Lenguajes:** C#, .NET, SQL Server, HTML, CSS
 
-## 🎬 WebAppMovies
-![WebAppMovies](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=WebAppMovies&theme=tokyonight)
+## 🎬 WebAppMovies  
+![WebAppMovies](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=WebAppMovies&theme=tokyonight)  
+**Lenguajes:** JavaScript, React, CSS, Node.js
 
-## 🎥 WebPeliculas
-![WebPeliculas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=WebPeliculas&theme=tokyonight)
+## 🎥 WebPeliculas  
+![WebPeliculas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=WebPeliculas&theme=tokyonight)  
+**Lenguajes:** HTML, CSS, JavaScript
 
-## 🎞️ PeliculasPrueba
-![PeliculasPrueba](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=PeliculasPrueba&theme=tokyonight)
+## 🎞️ PeliculasPrueba  
+![PeliculasPrueba](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=PeliculasPrueba&theme=tokyonight)  
+**Lenguajes:** C#, .NET, SQL Server
 
-## 🧑‍🎓 EscuelaPrueba
-![EscuelaPrueba](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=EscuelaPrueba&theme=tokyonight)
+## 🧑‍🎓 EscuelaPrueba  
+![EscuelaPrueba](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=EscuelaPrueba&theme=tokyonight)  
+**Lenguajes:** C#, .NET, SQL Server
 
-## 🧩 Estudiantes
-![Estudiantes](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=Estudiantes&theme=tokyonight)
+## 🧩 Estudiantes  
+![Estudiantes](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=Estudiantes&theme=tokyonight)  
+**Lenguajes:** C#, .NET, SQL Server
 
-## 🔐 Autentificarse
-![Autentificarse](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=Autentificarse&theme=tokyonight)
+## 🔐 Autentificarse  
+![Autentificarse](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=Autentificarse&theme=tokyonight)  
+**Lenguajes:** C#, .NET, SQL Server
 
-## 🧾 EntidadesJ
-![EntidadesJ](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=EntidadesJ&theme=tokyonight)
+## 🧾 EntidadesJ  
+![EntidadesJ](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=EntidadesJ&theme=tokyonight)  
+**Lenguajes:** C#, .NET
 
-## 💼 ProgramaDeNomina
-![ProgramaDeNomina](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=ProgramaDeNomina&theme=tokyonight)
+## 💼 ProgramaDeNomina  
+![ProgramaDeNomina](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=ProgramaDeNomina&theme=tokyonight)  
+**Lenguajes:** C#, .NET, SQL Server
 
-## 🧪 PruebadePractica
-![PruebadePractica](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=PruebadePractica&theme=tokyonight)
+## 🧪 PruebadePractica  
+![PruebadePractica](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=PruebadePractica&theme=tokyonight)  
+**Lenguajes:** C#, .NET
 
-## 🌐 CouncilChurchAPI
-![CouncilChurchAPI](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=CouncilChurchAPI&theme=tokyonight)
+## 🌐 CouncilChurchAPI  
+![CouncilChurchAPI](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=CouncilChurchAPI&theme=tokyonight)  
+**Lenguajes:** C#, .NET, SQL Server, REST API
 
-## 🎨 MyPortfolio
-![MyPortfolio](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=MyPortfolio&theme=tokyonight)
+## 🎨 MyPortfolio  
+![MyPortfolio](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=MyPortfolio&theme=tokyonight)  
+**Lenguajes:** React, JavaScript, CSS
 
-## 🎨 Porfolio
-![Porfolio](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=Porfolio&theme=tokyonight)
+## 🎨 Porfolio  
+![Porfolio](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=Porfolio&theme=tokyonight)  
+**Lenguajes:** HTML, CSS, JavaScript
 
-## 🧪 pruebacarga
-![pruebacarga](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=pruebacarga&theme=tokyonight)
+## 🧪 pruebacarga  
+![pruebacarga](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=pruebacarga&theme=tokyonight)  
+**Lenguajes:** C#, .NET
 
-## 🐍 pruebasJhonPython
-![pruebasJhonPython](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=pruebasJhonPython&theme=tokyonight)
+## 🐍 pruebasJhonPython  
+![pruebasJhonPython](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=pruebasJhonPython&theme=tokyonight)  
+**Lenguajes:** Python
 
-## 🧩 Final-Project
-![Final-Project](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=Final-Project&theme=tokyonight)
+## 🧩 Final-Project  
+![Final-Project](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=Final-Project&theme=tokyonight)  
+**Lenguajes:** C#, .NET, SQL Server
 
 ---
 
