@@ -12,52 +12,52 @@
 ### *(Actualizado automáticamente según GitHub)*
 
 ## 📌 AplicacionIglesia
-![AplicacionIglesia](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=AplicacionIglesia&theme=tokyonight)
+![AplicacionIglesia](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=AplicacionIglesia&theme=tokyonight)
 
 ## 🎬 WebAppMovies
-![WebAppMovies](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=WebAppMovies&theme=tokyonight)
+![WebAppMovies](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=WebAppMovies&theme=tokyonight)
 
 ## 🎥 WebPeliculas
-![WebPeliculas](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=WebPeliculas&theme=tokyonight)
+![WebPeliculas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=WebPeliculas&theme=tokyonight)
 
 ## 🎞️ PeliculasPrueba
-![PeliculasPrueba](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=PeliculasPrueba&theme=tokyonight)
+![PeliculasPrueba](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=PeliculasPrueba&theme=tokyonight)
 
 ## 🧑‍🎓 EscuelaPrueba
-![EscuelaPrueba](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=EscuelaPrueba&theme=tokyonight)
+![EscuelaPrueba](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=EscuelaPrueba&theme=tokyonight)
 
 ## 🧩 Estudiantes
-![Estudiantes](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=Estudiantes&theme=tokyonight)
+![Estudiantes](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=Estudiantes&theme=tokyonight)
 
 ## 🔐 Autentificarse
-![Autentificarse](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=Autentificarse&theme=tokyonight)
+![Autentificarse](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=Autentificarse&theme=tokyonight)
 
 ## 🧾 EntidadesJ
-![EntidadesJ](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=EntidadesJ&theme=tokyonight)
+![EntidadesJ](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=EntidadesJ&theme=tokyonight)
 
 ## 💼 ProgramaDeNomina
-![ProgramaDeNomina](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=ProgramaDeNomina&theme=tokyonight)
+![ProgramaDeNomina](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=ProgramaDeNomina&theme=tokyonight)
 
 ## 🧪 PruebadePractica
-![PruebadePractica](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=PruebadePractica&theme=tokyonight)
+![PruebadePractica](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=PruebadePractica&theme=tokyonight)
 
 ## 🌐 CouncilChurchAPI
-![CouncilChurchAPI](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=CouncilChurchAPI&theme=tokyonight)
+![CouncilChurchAPI](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=CouncilChurchAPI&theme=tokyonight)
 
 ## 🎨 MyPortfolio
-![MyPortfolio](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=MyPortfolio&theme=tokyonight)
+![MyPortfolio](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=MyPortfolio&theme=tokyonight)
 
 ## 🎨 Porfolio
-![Porfolio](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=Porfolio&theme=tokyonight)
+![Porfolio](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=Porfolio&theme=tokyonight)
 
 ## 🧪 pruebacarga
-![pruebacarga](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=pruebacarga&theme=tokyonight)
+![pruebacarga](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=pruebacarga&theme=tokyonight)
 
 ## 🐍 pruebasJhonPython
-![pruebasJhonPython](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=pruebasJhonPython&theme=tokyonight)
+![pruebasJhonPython](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=pruebasJhonPython&theme=tokyonight)
 
 ## 🧩 Final-Project
-![Final-Project](https://github-readme-stats.vercel.app/api/pin/?username=JhonCap2&repo=Final-Project&theme=tokyonight)
+![Final-Project](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JhonCap2&repo=Final-Project&theme=tokyonight)
 
 ---
 
@@ -90,8 +90,8 @@
 ---
 
 # 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhoncap2&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=jhoncap2&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhoncap2&show_icons=true&locale=en&theme=tokyonight" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jhoncap2&show_icons=true&locale=en&theme=tokyonight" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncap2&theme=tokyonight" /></p>
